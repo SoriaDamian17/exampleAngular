@@ -12,13 +12,15 @@ Utilizamos para poder concatenar archivos y hacer compresion [gulp](https://gulp
 El primer paso que tendremos que hacer es clonar nuestro proyecto desde git
 
 Abrimos la consola y ponemos
-´´´´´´´´´´´´
+
+```
   git clone https://github.com/SoriaDamian17/exampleAngular.git
 
-´´´´´´´´´´´´
+```
 
 lo segundo que tenemos que hacer es instalar nuestras dependencias
-´´´´´´´´´´´´
-  npm install
 
-´´´´´´´´´´´´
+```  
+npm install
+
+```
