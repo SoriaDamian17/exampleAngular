@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/SoriaDamian17/exampleAngular#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
   }
 }
