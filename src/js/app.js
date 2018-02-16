@@ -4,7 +4,11 @@ app.controller('mainController', function($scope, $http){
     $http.get('js/news.json')
     .success(function(response) {
         news = response;
+        //$scope.news = response;
         //Imprimo en consola el response
         console.log(response);
+    })
+    .error(function(err) {
+        console.log('Error: ' + err);
     });
 });
