@@ -1,0 +1,22 @@
+{
+  "name": "exampleangular",
+  "version": "1.0.0",
+  "description": "Practica de front-end con AngularJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoriaDamian17/exampleAngular.git"
+  },
+  "author": "Damian Soria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoriaDamian17/exampleAngular/issues"
+  },
+  "homepage": "https://github.com/SoriaDamian17/exampleAngular#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
