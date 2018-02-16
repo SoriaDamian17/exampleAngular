@@ -1,0 +1,650 @@
+{
+    "rss": {
+      "-xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "-version": "2.0",
+      "-xml:base": "http://srvc.lavoz.com.ar/rss.xml",
+      "-content": "http://purl.org/rss/1.0/modules/content/",
+      "-dc": "http://purl.org/dc/terms/",
+      "-foaf": "http://xmlns.com/foaf/0.1/",
+      "-og": "http://ogp.me/ns#",
+      "-rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+      "-sioc": "http://rdfs.org/sioc/ns#",
+      "-sioct": "http://rdfs.org/sioc/types#",
+      "-skos": "http://www.w3.org/2004/02/skos/core#",
+      "-xsd": "http://www.w3.org/2001/XMLSchema#",
+      "channel": {
+        "title": "LaVoz",
+        "link": "http://srvc.lavoz.com.ar/rss.xml",
+        "language": "en",
+        "item": [
+          {
+            "title": "Macri busca en Chapadmalal \"consolidar el trabajo en equipo\" de Cambiemos",
+            "link": "http://srvc.lavoz.com.ar/politica/macri-busca-en-chapadmalal-consolidar-el-trabajo-en-equipo-de-cambiemos",
+            "description": "El presidente Mauricio Macri encabeza desde este viernes en Chapadmalal una reunión del gabinete ampliado y jefes oficialistas legislativos, en la que se procuró \"consolidar el trabajo en equipo\" de Cambiemos y se expusieron “los planes estratégicos” que cada ministerio impulsará este año.Los ministros y secretarios de Estado expondrán las tareas realizadas durante 2017 y los planes estratégicos de cartera y organismo para el corriente año.
+  Agencia TélamPolítica",
+            "pubDate": "Fri, 16 Feb 2018 20:46:11 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148827 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Para Arduh, el Gobierno \"transformó el Paicor en un programa selecto\"",
+            "link": "http://srvc.lavoz.com.ar/politica/para-arduh-el-gobierno-transformo-el-paicor-en-un-programa-selecto",
+            "description": "Después de la publicación en la que La Voz informó sobre un incremento de 22 mil beneficiarios del programa provincial Paicor, desde Cambiemos salieron a cuestionar los criterios de admisión de los chicos que acceden a las raciones en las escuelas.
+  TE PUEDE INTERESAR. En dos años creció 11,5% el padrón de PaicorPolítica",
+            "pubDate": "Fri, 16 Feb 2018 20:10:10 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148885 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Claves para entender la sangrienta balacera en pleno corazón de Nueva Córdoba",
+            "link": "http://srvc.lavoz.com.ar/sucesos/claves-para-entender-la-sangrienta-balacera-en-pleno-corazon-de-nueva-cordoba",
+            "description": "Lo que había iniciado como una madrugada tranquila en barrio Nueva Córdoba cambió en apenas un puñado de minutos que concentraron más de 100 disparos: policías se habían cruzado con delincuentes, con sangriento saldo de un efectivo muerto y dos ladrones abatidos.
+  A continuación, los principales aspectos del caso que conmociona a Córdoba:En un puñado de minutos, más de cien estruendos sorprendieron a los vecinos de uno de los barrios más concurridos de la Capital. Cómo fue el tiroteo, las víctimas y lo que se sabe de la investigación policial. Canal especial con todo lo publicado.
+  Sucesos",
+            "pubDate": "Fri, 16 Feb 2018 19:58:54 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148863 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Apareció otra amante de Trump: al igual que la actriz porno, cobró por su historia",
+            "link": "http://srvc.lavoz.com.ar/mundo/aparecio-otra-amante-de-trump-al-igual-que-la-actriz-porno-cobro-por-su-historia",
+            "description": "El presidente estadounidense, Donald Trump, volvió a quedar este viernes en el centro de la polémica por la aparición de una nueva trama para comprar el silencio de una supuesta examante, la exconejita de Playboy Karen McDougal. Agencia dpaMundo",
+            "pubDate": "Fri, 16 Feb 2018 19:44:59 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148883 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "\"Los compañeros del policía se abrazaban y lloraban\"",
+            "link": "http://srvc.lavoz.com.ar/videos/los-companeros-del-policia-se-abrazaban-y-lloraban",
+            "description": "Sucesos5 700 000",
+            "pubDate": "Fri, 16 Feb 2018 19:24:48 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148879 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Se reponen los policías heridos en el tiroteo en Nueva Córdoba",
+            "link": "http://srvc.lavoz.com.ar/sucesos/se-reponen-los-policias-heridos-en-el-tiroteo-en-nueva-cordoba",
+            "description": "Tras la masacre en el barrio Nueva Córdoba, se reponen Fernando Oliva y Alexis Aguilar, los oficiales heridos durante el robo ocurrido esta madrugada.
+  El ministro de Gobierno y Seguridad, Juan Carlos Massei, los visitó esta mañana y se puso a disposición de los familiares de los agentes para que se recuperen pronto.El ministro de Gobierno y Seguridad, Juan Carlos Massei, los visitó esta mañana. El Gobierno dispuso tres días de asueto.
+  Sucesos",
+            "pubDate": "Fri, 16 Feb 2018 19:22:31 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148878 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Apple tuvo más ingresos por la venta de iPhones que todos los demás fabricantes juntos",
+            "link": "http://srvc.lavoz.com.ar/tecnologia/apple-tuvo-mas-ingresos-por-la-venta-de-iphones-que-todos-los-demas-fabricantes-juntos",
+            "description": "Las ventas de los smartphones de Apple acapararon el 51 por ciento de los ingresos totales de la industria mundial de telefonía móvil durante el último trimestre del 2017, un rédito conseguido especialmente por los precios de sus últimos modelos, entre ellos el IPhone X, mostró un informe privado.Agencia EFETecnología",
+            "pubDate": "Fri, 16 Feb 2018 19:19:01 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148877 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Cómo es el sistema Roni que utilizaron los delincuentes en el asalto de Nueva Córdoba",
+            "link": "http://srvc.lavoz.com.ar/sucesos/como-es-el-sistema-roni-que-utilizaron-los-delincuentes-en-el-asalto-de-nueva-cordoba",
+            "description": "El arsenal desplegado por los delincuentes en tiroteo de Nueva Córdoba sorprendió por su magnitud. A simple vista las armas parecían ser fusiles, sin embargo en todos los casos se trató de simples pistolas provistas de un accesorio denominado Sistema Roni, que le da la apariencia de un arma automática.
+  CANAL ESPECIAL. Todo lo publicado sobre el tiroteo en Nueva CórdobaSucesos",
+            "pubDate": "Fri, 16 Feb 2018 18:51:24 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148876 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Un asaltante de un banco en 1996, uno de los muertos en el tiroteo en Nueva Córdoba",
+            "link": "http://srvc.lavoz.com.ar/sucesos/un-asaltante-de-un-banco-en-1996-uno-de-los-muertos-en-el-tiroteo-en-nueva-cordoba",
+            "description": "Uno de los delincuentes que murieron en el tiroteo en Nueva Córdoba tiene identidad confirmada: se trata de Rolando Ricardo Hidalgo, \"\"El Ciego\", un hombre que en 1998 fue condenado junto a dos cómplices y una agente policial por el robo de un millón de pesos en una sucursal del entonces Banco del Suquía ubicado en el predio del supermercado Makro, en el oeste de la Capital. Es Rolando Ricardo Hidalgo, conocido como \"El Ciego\". Tenía 59 años y tuvo una larga condena en la cárcel.
+  Sucesos",
+            "pubDate": "Fri, 16 Feb 2018 18:45:25 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148859 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Uno de los oficiales que estaba con el cabo Ferraro : \"Traté de reanimarlo, pero se me murió en los brazos\"",
+            "link": "http://srvc.lavoz.com.ar/videos/uno-de-los-oficiales-que-estaba-con-el-cabo-ferraro-trate-de-reanimarlo-pero-se-me-murio-en-l",
+            "description": "Sucesos6 180 000",
+            "pubDate": "Fri, 16 Feb 2018 18:43:50 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148866 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Bullrich volvió a apoyar a  Chocobar: \"Hizo lo que tenía que hacer\"",
+            "link": "http://srvc.lavoz.com.ar/politica/bullrich-volvio-apoyar-chocobar-hizo-lo-que-tenia-que-hacer",
+            "description": "La ministra de Seguridad de la Nación, Patricia Bullrich, volvió hoy a respaldar el accionar del policía Luis Oscar Chocobar, cuyo procesamiento por la muerte de un ladrón fue confirmado por la Cámara del Crimen al asegurar que sigue pensando que “hizo lo que tenía que hacer”.
+  “Cuando hay una situación donde hay peligro de vida para los ciudadanos, los policías tienen que actuar”, dijo la ministra durante una conferencia de prensa desde Chapadmalal, donde se lleva a cabo el “retiro” los gabinete ampliado.La ministra de Seguridad volvió a defender el accionar el efectivo procesado por matar a un delincuente en La Boca. Confirmaron el procesamiento.
+  Política",
+            "pubDate": "Fri, 16 Feb 2018 18:41:09 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148857 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Este era y así murió Franco Ferraro, el policía caído en el tiroteo",
+            "link": "http://srvc.lavoz.com.ar/videos/este-era-y-asi-murio-franco-ferraro-el-policia-caido-en-el-tiroteo",
+            "description": "Sucesos6 300 000",
+            "pubDate": "Fri, 16 Feb 2018 18:35:35 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148873 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Los mejores lugares para visitar en 2018, según The New York Times",
+            "link": "http://srvc.lavoz.com.ar/mundo/los-mejores-lugares-para-visitar-en-2018-segun-new-york-times",
+            "description": "Cómo todos los años, el New York Times elaboró la lista con los destinos que hay que visitar en 2018. En total, son 52 lugares (uno por cada semana de este año), de los cuales siete están relativamente cerca, en Latinoamérica.
+  Riqueza natural, ciudades emergentes y experiencias que ofrecen, son algunas de las características que se destacan en esta elección.  El prestigioso medio elabora todos los años el listado con los mejores destinos para visitar. Este año, siete lugares están en América Latina. 
+  Mundo",
+            "pubDate": "Fri, 16 Feb 2018 18:30:23 +0000",
+            "dc:creator": "voydeviaje",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148871 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "El momento despúes de la balacera",
+            "link": "http://srvc.lavoz.com.ar/videos/el-momento-despues-de-la-balacera",
+            "description": "Sucesos5 700 000",
+            "pubDate": "Fri, 16 Feb 2018 18:28:14 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148870 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Diez consejos para que la ropa te haga parecer más alta",
+            "link": "http://srvc.lavoz.com.ar/revista-rumbos/diez-consejos-para-que-la-ropa-te-haga-parecer-mas-alta",
+            "description": "De tacos no solo viven las mujeres. Acá te dejamos algunos consejos para ganar unos centímetros sin esfuerzo.
+  Revista RumbosRevista Rumbos",
+            "pubDate": "Fri, 16 Feb 2018 18:23:14 +0000",
+            "dc:creator": "Revista Rumbos",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148868 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Nazarena Vélez confirmó su romance y a las 24 horas… ¡se separó!",
+            "link": "http://srvc.lavoz.com.ar/revista-rumbos/nazarena-velez-confirmo-su-romance-y-las-24-horas-se-separo",
+            "description": "La exmodelo volvió a apostar al amor y a las pocas horas, todo terminó con un fuerte posteo en las redes sociales.
+  Revista RumbosRevista Rumbos",
+            "pubDate": "Fri, 16 Feb 2018 18:21:16 +0000",
+            "dc:creator": "Revista Rumbos",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148867 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Los nuevos desafíos de la carne vacuna: ¿cómo la consumen los millenials?",
+            "link": "http://srvc.lavoz.com.ar/ganaderia/los-nuevos-desafios-de-la-carne-vacuna-como-la-consumen-los-millenials",
+            "description": "El Instituto de Promoción de la Carne Vacuna (IPCVA) realizó un estudio que determinó cuáles son los desafíos que tiene que afrontar la cadena cárnica para seguir creciendo en consumidores, captando nuevos y fidelizando a los que ya están.
+  En Argentina, cada habitante come en promedio unos 60 kilos de “asado” al año; según el IPCVA, el 95 por ciento de los argentinos consume carne vacuna, pero con diferentes criterios y modalidades.Un estudio realizado por el Instituto de Promoción de la Carne Vacuna desmenuza el mercado del “asado”. La amenaza de los “mercenarios”: los que se cambian a los sustitutos por el precio.
+  Ganadería",
+            "pubDate": "Fri, 16 Feb 2018 17:58:17 +0000",
+            "dc:creator": "Agrovoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148865 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Por país y por producto: un mapa interactivo muestra la relación de Argentina con el mundo",
+            "link": "http://srvc.lavoz.com.ar/actualidad/por-pais-y-por-producto-un-mapa-interactivo-muestra-la-relacion-de-argentina-con-el-mundo",
+            "description": "El Ministerio de Agroindustria de la Nación lanzó un mapa de mercados que muestra la relación comercial de Argentina con el resto del mundo.
+  El desarrollo, realizado por la Secretaría de Mercados Agroindustriales, es abierto al público y permite visualizar el estado de los mercados en el mundo para cada producto agroindustrial. Fue desarrollado por el Gobierno nacional. Se puede consultar qué destinos tienen actualmente relación comercial con Argentina y qué cantidad de toneladas compran cada año.
+  Actualidad",
+            "pubDate": "Fri, 16 Feb 2018 17:28:25 +0000",
+            "dc:creator": "Agrovoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148864 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Los tambos iniciaron 2018 con fuerte crecimiento de la producción",
+            "link": "http://srvc.lavoz.com.ar/ganaderia/los-tambos-iniciaron-2018-con-fuerte-crecimiento-de-la-produccion",
+            "description": "La Subsecretaría de Lechería de la Nación difundió el tablero de comando sectorial con los datos correspondientes a enero, que arrojaron un buen inicio de año para los tambos argentinos.
+  De acuerdo a este relevamiento, la producción de leche cruda creció 13 por ciento en comparación con enero de 2017, aunque se redujo seis por ciento con respecto a diciembre último.
+  Córdoba volvió a estar a la cabeza de este repunte, con una expansión de más del 20 por ciento en las principales cuencas lecheras.
+  Por zonasA nivel nacional, el volumen de leche enviada a las industrias creció 13 por ciento. En las principales cuencas lecheras de Córdoba, aumentó más del 20 por ciento.
+  Ganadería",
+            "pubDate": "Fri, 16 Feb 2018 16:47:28 +0000",
+            "dc:creator": "Agrovoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148862 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Tiroteo en Nueva Córdoba: uno de los policías se salvó gracias al chaleco antibalas",
+            "link": "http://srvc.lavoz.com.ar/sucesos/tiroteo-en-nueva-cordoba-uno-de-los-policias-se-salvo-gracias-al-chaleco-antibalas",
+            "description": "Gracias al chaleco antibalas, un cabo de la Policía de Córdoba salvó su vida de milagro en la madrugada del viernes durante el tiroteo en el que murieron dos delincuentes y un efectivo de la fuerza.Se trata del cabo Williams González (26), oriundo de San José de la Dormida. También fue impactado en una de sus manos. Cómo están los otros dos heridos.
+  Sucesos",
+            "pubDate": "Fri, 16 Feb 2018 16:09:45 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148813 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "¿Lo sabías? El Clase A se sofisticó y ahora podés hablarle",
+            "link": "http://srvc.lavoz.com.ar/autos/lo-sabias-el-clase-se-sofistico-y-ahora-podes-hablarle",
+            "description": "Amsterdam (Holanda), fue el lugar elegido por la marca de la estrella para develar a la cuarta generación del Clase A.Este año, el Mercedes Clase A llega con novedades. Se convertirá en el primer Mercedes con asistente por voz propio para cumplir órdenes. 
+  Elvio OrellanaAutos",
+            "pubDate": "Fri, 16 Feb 2018 15:49:19 +0000",
+            "dc:creator": "tendencias",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148855 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Federación Agraria, contra la reforma tributaria: “Profundiza la concentración”",
+            "link": "http://srvc.lavoz.com.ar/actualidad/federacion-agraria-contra-la-reforma-tributaria-profundiza-la-concentracion",
+            "description": "Federación Agraria Argentina (FAA) presentó este jueves en Rosario un informe elaborado por contadores en el que se cuestionan diversos aspectos incluidos en la reforma tributaria que, según la mirada de la entidad, perjudican a los pequeños y medianos productores.
+  Omar Príncipe, titular de la FAA, encabezó la presentación junto al vicepresidente 2°, Agustín Pizzichinni; y al secretario Gremial, Orlando Marino; y resumió que “los cambios van a la inversa de lo que se ha venido planteando desde hace muchos años. Son reformas impositivas que benefician a los más grandes”. Así lo expresó el presidente de la entidad, Omar Príncipe, durante la presentación de un informe elaborado por la entidad en el que cuestiona la reforma aprobada por el Gobierno nacional.
+  Actualidad",
+            "pubDate": "Fri, 16 Feb 2018 15:48:43 +0000",
+            "dc:creator": "Agrovoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148854 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Espacio de trabajo: cómo tener un ambiente adecuado y con estilo",
+            "link": "http://srvc.lavoz.com.ar/casa-diseno/espacio-de-trabajo-como-tener-un-ambiente-adecuado-y-con-estilo",
+            "description": "Destinamos muchas horas del día a nuestro trabajo. Por ello, ese espacio debe resultarnos grato a la vista y confortable para desarrollar nuestras actividades.
+  En ese marco, hay que destinar un tiempo a pensar detenidamente en su ambientación y en la elección de sus elementos. Para ello, consultamos a expertos a efectos de que nos orienten y aporten sus conceptos para alcanzar “ese lugar deseado”.Condiciones a tener en cuenta.  Los estilos que son tendencia. Mobiliario y equipamiento.
+  Héctor MagnoneCasa & Diseño",
+            "pubDate": "Fri, 16 Feb 2018 15:44:08 +0000",
+            "dc:creator": "tendencias",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148852 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Las aerolíneas low cost generarán unos 4 mil empleos directos",
+            "link": "http://srvc.lavoz.com.ar/mundo/las-aerolineas-low-cost-generaran-unos-4-mil-empleos-directos",
+            "description": "Con la llegada al aeropuerto de Ezeiza, en Buenos Aires, de un avión de Norwegian procedente de Londres, comenzaron a operar formalmente en Argentina los vuelos internacionales a bajo costo. 
+  En ese sentido, el ministro de Turismo de la Nación, Gustavo Santos, afirmó que las aerolíneas low cost generarán entre tres mil y cuatro mil empleos directos para tripulantes y pilotos y unos 50 mil indirectos en el sector aeronáutico.Se espera que generen empleos directos para tripulantes y pilotos, y unos 50 mil indirectos en el sector aeronáutico. 
+  Mundo",
+            "pubDate": "Fri, 16 Feb 2018 15:43:47 +0000",
+            "dc:creator": "voydeviaje",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148851 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Así trasladaba el Eter al único detenido tras el tiroteo a la cárcel de Bouwer",
+            "link": "http://srvc.lavoz.com.ar/videos/asi-trasladaba-el-eter-al-unico-detenido-tras-el-tiroteo-la-carcel-de-bouwer",
+            "description": "Sucesos4 440 000",
+            "pubDate": "Fri, 16 Feb 2018 15:41:26 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148850 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "¡Ganadores de inflables de Full Technology!",
+            "link": "http://srvc.lavoz.com.ar/ciudadanos/ganadores-de-inflables-de-full-technology",
+            "description": "El verano se hace sentir y para disfrutarlo a pleno Clasificados sorteó dos premios de Full Technology:
+   
+  Ganadores:
+   
+  1er. premio: Salvavidas con forma de pato. Paola Albarracin (573)
+  2do. premio: 3 luces solares inflables a prueba de agua. Lorena Fonti (280)
+   
+  ¿Cómo fue el sorteo?
+   
+  Clasificados sorteó premios de Full Technology para que disfrutés del verano con todo.  
+   
+  
+   
+  Ciudadanos",
+            "pubDate": "Fri, 16 Feb 2018 15:37:00 +0000",
+            "dc:creator": "mktrsuser",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148715 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Sangriento tiroteo en Nueva Córdoba: murieron dos ladrones y un policía",
+            "link": "http://srvc.lavoz.com.ar/sucesos/sangriento-tiroteo-en-nueva-cordoba-murieron-dos-ladrones-y-un-policia",
+            "description": "Un policía y dos delincuentes murieron el viernes por la madrugada tras un intenso tiroteo en el corazón de barrio Nueva Córdoba. 
+  En el hecho, que conmocionó a todos los vecinos, resultaron heridos otros tres policías, y uno de los integrantes de la banda delictiva, que según los investigadores estaba altamente profesionalizada.
+  También recibió un disparo la víctima del asalto, un joven de unos 35 años, aunque está fuera de peligro.Sucesos",
+            "pubDate": "Fri, 16 Feb 2018 15:31:40 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148807 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Un fallo inédito condena a Claro a pagar $ 1.000.000 a usuario por demorar la baja de una línea",
+            "link": "http://srvc.lavoz.com.ar/tecnologia/un-fallo-inedito-condena-claro-pagar-1000000-usuario-por-demorar-la-baja-de-una-linea",
+            "description": "La Justicia en lo Civil y Comercial de Tandil ordenó a la empresa de telefonía Claro (en realidad a la empresa AMX Argentina, propietaria del servicio) a pagar un millón de pesos a un cliente como resarcimiento por los inconvenientes que sufrió para dar de baja su línea. La cifra exacta de $ 1.035.372.
+  Tal como lo detalla el fallo reproducido a continuación, la demanda se inició luego que el hombre intentó dar de baja su servicio de celular por mal funcionamiento y se encontró con innumerables obstáculos. Tecnología",
+            "pubDate": "Fri, 16 Feb 2018 15:21:15 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148848 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Segunda misión comercial a Brasil de molinos harineros cordobeses",
+            "link": "http://srvc.lavoz.com.ar/actualidad/segunda-mision-comercial-brasil-de-molinos-harineros-cordobeses",
+            "description": "La Agencia ProCórdoba y la Bolsa de Cereales de Córdoba informaron que están abiertas las inscripciones para participar de la 2° Misión Comercial a Brasil, para molinos harineros.
+  La gira de negocios se llevará a cabo entre el 6 y el 11 de mayo.
+  Se visitarán las ciudades de Curitiba-Paraná y Porto Alegre-Río Grande do Sul.
+  En ambos casos, se contará con el total apoyo de los Consulados argentinos en esas ciudades, quienes organizarán reuniones con contrapartes locales interesadas en la harina de trigo argentina, informaron los organizadores.Es organizada por la Agencia ProCórdoba y la Bolsa de Cereales.
+  Actualidad",
+            "pubDate": "Fri, 16 Feb 2018 15:14:36 +0000",
+            "dc:creator": "Agrovoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148847 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Salieron a dar una vuelta y quedaron en medio del tiroteo entre la Policía y los delincuentes",
+            "link": "http://srvc.lavoz.com.ar/videos/salieron-dar-una-vuelta-y-quedaron-en-medio-del-tiroteo-entre-la-policia-y-los-delincuentes",
+            "description": "Sucesos4 680 000",
+            "pubDate": "Fri, 16 Feb 2018 15:13:47 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148846 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Cinco noticias falsas sobre cáncer que circulan en la red",
+            "link": "http://srvc.lavoz.com.ar/listas/cinco-noticias-falsas-sobre-cancer-que-circulan-en-la-red",
+            "description": "Tag Duro: SaludBajada: Las noticias falsas son materia corriente en las redes. Las más dañinas son las que se refieren a temas de salud como los artículos sobre promesas para curar el cáncer o bien sobre sustancias malignas que lo provocan con solo respirarlas o ingerirlas. Aquí algunos ejemplos y su evidencia científica.
+  Imagen: ",
+            "pubDate": "Fri, 16 Feb 2018 15:10:39 +0000",
+            "dc:creator": "lviano",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148845 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "“Fueron más de 100 disparos”, confirmó la Policía sobre el tiroteo en barrio Nueva Córdoba",
+            "link": "http://srvc.lavoz.com.ar/sucesos/fueron-mas-de-100-disparos-confirmo-la-policia-sobre-el-tiroteo-en-barrio-nueva-cordoba",
+            "description": "La impresionante y sangrienta balacera desatada en la madrugada del viernes en Rondeau y Buenos Aires, pleno corazón de Nueva Córdoba, registró más de 100 disparos según pudieron confirmar fuentes policiales.Así lo indicó el comisario mayor Alejandro Mercado, jefe de Investigaciones Criminales.
+  Sucesos",
+            "pubDate": "Fri, 16 Feb 2018 15:04:35 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148843 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "La mitad de la soja y el maíz, en mal estado: ¿por qué no llegan las lluvias que necesita el campo?",
+            "link": "http://srvc.lavoz.com.ar/clima/la-mitad-de-la-soja-y-el-maiz-en-mal-estado-por-que-no-llegan-las-lluvias-que-necesita-el-camp",
+            "description": "La luz amarilla que viene encendida para la cosecha gruesa argentina desde fines de la primavera, cuando comenzó a notarse la falta de lluvias, comienza a teñirse de rojo: según la Bolsa de Cereales de Buenos Aires, 58 por ciento de los lotes de maíz, 56 por ciento de los de soja y 45 por ciento de los de girasol preseSegún la Bolsa de Cereales de Buenos Aires, 56 por ciento de los lotes de soja y 58 por ciento de los de maíz están entre regulares y malos. Cuál es el factor climático que frena las precipitaciones.
+  Clima",
+            "pubDate": "Fri, 16 Feb 2018 14:38:36 +0000",
+            "dc:creator": "Agrovoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148840 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Científicos colocaron una cámara a una ballena en la Antártida: \"se alimenta como un Pac-man\"",
+            "link": "http://srvc.lavoz.com.ar/ciudadanos/cientificos-colocaron-una-camara-una-ballena-en-la-antartida-se-alimenta-como-un-pac-man",
+            "description": "Una diminuta cámara colocada por primera vez en el cuerpo de una minke, una ballena escurridiza poco estudiada, muestra cómo este animal se alimenta \"como un Pac-man\" en aguas de la Antártida, según imágenes divulgadas este viernes. 
+  El vídeo, que forma parte de un proyecto estadounidense y australiano de estudio de los hábitos de las ballenas, revela cómo este cetáceo se desplaza a 24 kilómetros por hora mientras acelera para comer de una manera que recuerda al personaje de vídeojuegos. Agencia EFECiudadanos",
+            "pubDate": "Fri, 16 Feb 2018 14:24:59 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148839 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Caso Chocobar: confirmaron el procesamiento del policía que mató al ladrón",
+            "link": "http://srvc.lavoz.com.ar/politica/caso-chocobar-confirmaron-el-procesamiento-del-policia-que-mato-al-ladron",
+            "description": "La Cámara del Crimen confirmó hoy el procesamiento del policía Luis Oscar Chocobar por la muerte del ladrón que asaltó y apuñaló a un turista en el barrio porteño de La Boca, pero cambió la calificación al entender que hubo un exceso en el cumplimiento del deber y no en la legítima defensa, informaron fuentes judiciales.
+  CHOCOBAR. 10 claves para entender el caso
+   
+  Así lo decidió la Cámara del Crimen. Está procesado por homicidio con exceso en la legítima defensa. Anularon el embargaron por 400 mil pesos.
+  Política",
+            "pubDate": "Fri, 16 Feb 2018 14:24:08 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148838 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Paro bancario: podría faltar dinero en los cajeros",
+            "link": "http://srvc.lavoz.com.ar/politica/paro-bancario-podria-faltar-dinero-en-los-cajeros",
+            "description": "Al igual que ocurrió días atrás por el feriado extralargo de Carnaval, los cajeros automáticos presentes en las entidades bancarias podrían presentar faltante de efectivo a raíz del paro bancario anunciado para el lunes y martes próximos.
+  La medida de fuerza fue confirmada por La Bancaria, con lo que este viernes es el último día con entidades abiertas hasta el próximo martes.
+  La medida podría afectar la provisión de efectivo en los cajeros que se encuentran en los bancos.Será principalmente en las terminales que están en los bancos. Es por el paro del lunes 19 y martes 20.
+  Política",
+            "pubDate": "Fri, 16 Feb 2018 14:07:40 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148837 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Tiroteo en Nueva Córdoba: las imágenes de la balacera",
+            "link": "http://srvc.lavoz.com.ar/videos/tiroteo-en-nueva-cordoba-las-imagenes-de-la-balacera",
+            "description": "Sucesos3 360 000",
+            "pubDate": "Fri, 16 Feb 2018 14:02:31 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148836 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Muere en Brasil un turista de 35 años contagiado de fiebre amarilla",
+            "link": "http://srvc.lavoz.com.ar/ciudadanos/muere-en-brasil-un-turista-de-35-anos-contagiado-de-fiebre-amarilla",
+            "description": "Un turista chileno de 35 años murió el jueves en un hospital de Río de Janeiro tras contagiarse de fiebre amarilla en Brasil, según confirmó el viernes su familia a los medios chilenos. 
+  El joven, identificado como Felipe Santander, estaba de vacaciones en Brasil junto a su pareja desde el 29 de diciembre pasado, específicamente en Isla Grande, frente a la costa sur de Río de Janeiro, explicó su hermana, Daniela Santander. Agencia EFECiudadanos",
+            "pubDate": "Fri, 16 Feb 2018 13:52:58 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148835 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Quién era Franco Ferraro, el policía que murió en el sangriento tiroteo en Nueva Córdoba",
+            "link": "http://srvc.lavoz.com.ar/sucesos/quien-era-franco-ferraro-el-policia-que-murio-en-el-sangriento-tiroteo-en-nueva-cordoba",
+            "description": "De familia, policía. Así podría resumirse la vocación de Franco Ferraro, el efectivo de la Policía de Córdoba que murió en la madrugada del viernes en medio del sangriento tiroteo en barrio Nueva Córdoba, donde también cayeron abatidos dos delincuentes.Tenía 28 años y hace cuatro había ingresado a la fuerza. Familiares, amigos y compañeros expresaron su dolor en las redes sociales.
+  Sucesos",
+            "pubDate": "Fri, 16 Feb 2018 13:45:34 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148834 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Una agroindustria que genere empleo: la meta que le pidió Macri al Inta",
+            "link": "http://srvc.lavoz.com.ar/actualidad/una-agroindustria-que-genere-empleo-la-meta-que-le-pidio-macri-al-inta",
+            "description": "El Salón de Actos del pabellón Argentina de la Universidad Nacional de Córdoba (UNC) ofició ayer como sede para la asunción formal del nuevo director del Centro Regional Córdoba del Instituto Nacional de Tecnología Agropecuaria (Inta), Juan Cruz Molina.
+  Del acto participaron, entre otros, el presidente del Inta, Juan Balbín, que también asumió su cargo recientemente en reemplazo de Amadeo Nicora y comparte con Molina el pasado activo dentro de la Asociación Argentina de Consorcios Regionales de Experimentación Agrícola (Aacrea).El presidente del Instituto, Juan Balbín, participó del acto de asunción de Juan Cruz Molina en el Centro Regional Córdoba.
+  Actualidad",
+            "pubDate": "Fri, 16 Feb 2018 13:35:41 +0000",
+            "dc:creator": "Agrovoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148824 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "La impresora del Moto Z ya está aquí ",
+            "link": "http://srvc.lavoz.com.ar/tecno/la-impresora-del-moto-z-ya-esta-aqui",
+            "description": "La tendencia cada vez más vigente a recuperar lo analógico se manifiesta también en el interés de los usuarios de volver a contar con sus fotografías en papel y más precisamente en el mismo momento en el que han capturado la imagen. El ecosistema modular de la familia Moto Z sumó en nuestro país uno de los módulos que mayor atención despierta. Desarrollado por Polaroid, permite imprimir en segundos las imágenes captadas con la cámara del equipo.
+  Eduardo AguirreTecno",
+            "pubDate": "Fri, 16 Feb 2018 13:34:16 +0000",
+            "dc:creator": "tendencias",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148833 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Perú le retiró la invitación a la Cumbre de las Américas, pero Maduro dice que asistirá igual",
+            "link": "http://srvc.lavoz.com.ar/mundo/peru-le-retiro-la-invitacion-la-cumbre-de-las-americas-pero-maduro-dice-que-asistira-igual",
+            "description": "El presidente peruano, Pedro Pablo Kuczinsky, retiró oficialmente la invitación enviada a su par venezolano, Nicolás Maduro, para que participe de la VIII Cumbre de las Américas, que se celebrará el 13 y 14 de abril próximos, informaron este viernes medios locales. Mundo",
+            "pubDate": "Fri, 16 Feb 2018 13:30:49 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148832 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "El economista Espert estará en la primera jornada Agrovoz de 2018 ",
+            "link": "http://srvc.lavoz.com.ar/agrovoz-jornadas/el-economista-espert-estara-en-la-primera-jornada-agrovoz-de-2018",
+            "description": "El economista José Luis Espert estará entre los conferencistas de la primera de las Jornadas Agrovoz 2018, el próximo miércoles 21 de marzo, que estará enfocada en las estrategias para el año agropecuario.
+  Autor del libro La Argentina devorada, Espert cultiva un estilo agudo, directo y frontal para el análisis de los temas económicos y su vinculación con los hechos políticos. En este texto explica cómo sindicalistas, empresarios y políticos “en su mayoría corruptos” han saboteado el desarrollo del país.Conocé algunos de los nombres que disertarán en el encuentro dedicado a analizar los cultivos invernales y las perspectivas climáticas y de mercado para este año.
+  Agrovoz Jornadas",
+            "pubDate": "Fri, 16 Feb 2018 13:29:35 +0000",
+            "dc:creator": "Agrovoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148823 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Se viene la Expo Nacional de Caballos Criollos en la Rural de Jesús María",
+            "link": "http://srvc.lavoz.com.ar/agrovoz/se-viene-la-expo-nacional-de-caballos-criollos-en-la-rural-de-jesus-maria",
+            "description": "Del 28 de febrero al 4 de marzo, la Sociedad Rural de Jesús María será sede de la Expo Nacional de Caballos Criollos.
+  Con la participación de más de 250 equinos de las cabañas más importantes del país, se llevarán adelante finales y semifinales de campeonatos nacionales, además de una distinguida exhibición morfológica.
+  Por fuera de las pruebas funcionales, se esperan actividades para toda la familia, incluidos paseos por el predio, propuestas gastronómicas y un colorido bulevar de stands comerciales.Se realizará del 28 de febrero al 4 de marzo, con la participación de más de 250 equinos.
+  Agrovoz",
+            "pubDate": "Fri, 16 Feb 2018 13:25:18 +0000",
+            "dc:creator": "Agrovoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148822 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Maíz pisingallo: hay 52 plantas inscriptas para la exportación",
+            "link": "http://srvc.lavoz.com.ar/agricultura/maiz-pisingallo-hay-52-plantas-inscriptas-para-la-exportacion",
+            "description": "Durante 2017, el Servicio Nacional de Sanidad y Calidad Agroalimentaria (Senasa) contabilizó la exportación de 206.039 toneladas de maíz pisingallo a 112 países y por un valor FOB, declarado por los operadores, de unos 112,5 millones de dólares.En 2017, el Senasa certificó embarques a 112 países, por 206 mil toneladas e ingresos por 112,5 millones de dólares.
+  Agricultura",
+            "pubDate": "Fri, 16 Feb 2018 13:19:45 +0000",
+            "dc:creator": "Agrovoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148821 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "El dramático pedido de un policía al ver a su compañero baleado",
+            "link": "http://srvc.lavoz.com.ar/videos/el-dramatico-pedido-de-un-policia-al-ver-su-companero-baleado-0",
+            "description": "Sucesos3 540 000",
+            "pubDate": "Fri, 16 Feb 2018 13:16:26 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148831 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Schmid dio por terminado el triunvirato de la CGT: \"Este ciclo está agotado\"",
+            "link": "http://srvc.lavoz.com.ar/politica/schmid-dio-por-terminado-el-triunvirato-de-la-cgt-este-ciclo-esta-agotado",
+            "description": "El triunviro de la CGT Juan Carlos Schmid afirmó hoy que tiene \"toda la impresión\" de que el ciclo del triunvirato de la central obrera \"está agotado\" porque ese ámbito, que también integran Carlos Acuña y Héctor Daer, \"está desautorizado\".
+  \"Tengo toda la impresión de que este ciclo está agotado\", sentenció Schmid, en declaraciones a radio La Red, al referirse al triunvirato de conducción de la CGT. Agencia TélamPolítica",
+            "pubDate": "Fri, 16 Feb 2018 13:06:18 +0000",
+            "dc:creator": "redaccionlavoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148829 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "¿Soja a 300 dólares? El daño climático ya está hecho",
+            "link": "http://srvc.lavoz.com.ar/agricultura/soja-300-dolares-el-dano-climatico-ya-esta-hecho",
+            "description": "En esta misma columna dos semanas atrás cerrábamos nuestro análisis con la siguiente frase: “Sugerencia, seguir los pronósticos de corto plazo; en cuanto aparezcan lluvias de importancia, el mercado se desploma, pero si sigue la seca vamos a una soja de 300 dólares por tonelada o más”.
+  El pasado miércoles en el Matba, la soja disponible cerraba en los máximos a 296 dólares, mientras que la posición futura nueva cosecha mayo cerraba a 289, y ya para septiembre el piso del mercado indica 300 dólares.El impacto de la sequía en la Argentina y la posibilidad de llegar a una cosecha de 47 millones de toneladas ha tenido impacto directo sobre el mercado de Chicago. 
+  Agricultura",
+            "pubDate": "Fri, 16 Feb 2018 13:03:30 +0000",
+            "dc:creator": "padreani",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148820 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "La trayectoria alcista de la hacienda parece limitada",
+            "link": "http://srvc.lavoz.com.ar/ganaderia/la-trayectoria-alcista-de-la-hacienda-parece-limitada",
+            "description": "A medida que se acerca marzo, el mercado tiende a afirmarse. Están volviendo cientos de miles de familias de las vacaciones, y eso se siente en las grandes ciudades, especialmente en Buenos Aires.La mayoría de los operadores piensa que habrá una recuperación de los valores, pero sin avances significativos en términos reales. 
+  Ganadería",
+            "pubDate": "Fri, 16 Feb 2018 12:58:13 +0000",
+            "dc:creator": "Iriarte",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148819 at http://srvc.lavoz.com.ar"
+            }
+          },
+          {
+            "title": "Expoagro: la última tecnología en pulverización que se verá en el Tecnódromo",
+            "link": "http://srvc.lavoz.com.ar/actualidad/expoagro-la-ultima-tecnologia-en-pulverizacion-que-se-vera-en-el-tecnodromo",
+            "description": "Todos los días, de 14 a 14.45 horas, en el Tecnódromo de Expoagro (13 al 16 de marzo, en San Nicolás) se presentarán las últimas tecnologías aplicadas en pulverización agrícola.Metalfor mostrará un equipo autopropulsado que garantiza velocidad y eficiencia en las aplicaciones. 
+  Actualidad",
+            "pubDate": "Fri, 16 Feb 2018 12:55:01 +0000",
+            "dc:creator": "Agrovoz",
+            "guid": {
+              "-isPermaLink": "false",
+              "#text": "1148818 at http://srvc.lavoz.com.ar"
+            }
+          }
+        ]
+      }
+    }
+  }
