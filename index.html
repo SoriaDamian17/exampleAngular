@@ -26,9 +26,9 @@
                 <!-- Example row of columns -->
                 <div class="row">
                     <div class="col-md-4" ng-repeat="new in news">
-                        <h2>{{new.title}}</h2>
-                        <p>{{new.description}}</p>
-                        <p><a class="btn btn-secondary" href="{{new.link}}" role="button">Ver más »</a></p>
+                        <h2>{{new.title | limitTo:125}}</h2>
+                        <p>{{new.description | limitTo:250}}</p>
+                        <p><a class="btn btn-secondary" href="{{new.link}}" target="blank" role="button">Ver más »</a></p>
                     </div><!-- end new -->
                 </div><!-- end row-->
                 </hr>
